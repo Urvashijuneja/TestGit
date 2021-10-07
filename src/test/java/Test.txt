@@ -1,0 +1,2 @@
+This document is just for testing cmd commands
+Its a knowledge sharing session
