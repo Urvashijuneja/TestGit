@@ -1,4 +1,5 @@
 This document is just for testing cmd commands
 Its a knowledge sharing session
 New line added
-In dev branch one more line added 
+In dev branch one more line added
+Merge line added
